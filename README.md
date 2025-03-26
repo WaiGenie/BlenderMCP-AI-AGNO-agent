@@ -59,7 +59,7 @@ Watch the demo video
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/blender-mcp-agent.git
+   git clone https://github.com/WaiGenie/BlenderMCP-AI-AGNO-agent.git
    cd blender-mcp-agent
    ```
 2. Install the required Python packages:
